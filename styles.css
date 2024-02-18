@@ -105,6 +105,8 @@ body {
 
 /* */
 
+/* albums */
+
 #albums {
 	width: auto;
     height: auto;
@@ -129,11 +131,45 @@ body {
 	padding: 15px;
 }
 
+/* */
+
+/* pcs */
+
+
+
+/* */
 
 
 
 
 
+/* footer */
+
+footer {
+	/*border-top: 1.4px solid #5490c4;*/
+	background-color: clear;
+	color: #3b76ab;
+    text-align: center;
+	font-size: 13px;
+	position: static;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2.5%;
+	padding-top: 2.5%;
+	font-style: normal;
+	font-weight: 500;
+}
+footer a:link, footer a:visited {
+    color: #3b76ab;
+    text-decoration: none;
+}
+footer a:hover, footer a:active {
+    color: #eb7c7a;
+    text-decoration: underline;
+}
+
+/* */
 
 
 
